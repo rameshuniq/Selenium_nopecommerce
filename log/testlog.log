@@ -1,0 +1,78 @@
+2022-08-21 14:21:50,146 - nopEcommerce -INFO - URL is opened.....
+2022-08-21 14:21:50,387 - nopEcommerce -INFO - User provided
+2022-08-21 14:21:50,482 - nopEcommerce -INFO - Password provided
+2022-08-21 14:21:56,941 - nopEcommerce -INFO - User name is provided
+2022-08-21 14:21:57,057 - nopEcommerce -INFO - password is provided
+2022-08-21 21:34:21,127 - nopEcommerce -INFO - URL is opened.....
+2022-08-21 21:34:21,803 - nopEcommerce -INFO - User provided
+2022-08-21 21:34:21,902 - nopEcommerce -INFO - Password provided
+2022-08-21 21:34:26,588 - nopEcommerce -INFO - Login in Clicked
+2022-08-21 21:34:33,372 - nopEcommerce -INFO - Login Passed
+2022-08-21 21:34:43,499 - nopEcommerce -INFO - User name is provided
+2022-08-21 21:34:43,626 - nopEcommerce -INFO - password is provided
+2022-08-21 21:34:47,980 - nopEcommerce -INFO - providing customer details....
+2022-08-21 21:43:02,302 - nopEcommerce -INFO - URL is opened.....
+2022-08-21 21:43:02,531 - nopEcommerce -INFO - User provided
+2022-08-21 21:43:02,666 - nopEcommerce -INFO - Password provided
+2022-08-21 21:43:07,098 - nopEcommerce -INFO - Login in Clicked
+2022-08-21 21:43:14,059 - nopEcommerce -INFO - Login Passed
+2022-08-21 21:43:41,436 - nopEcommerce -INFO - User name is provided
+2022-08-21 21:43:41,575 - nopEcommerce -INFO - password is provided
+2022-08-21 21:43:46,013 - nopEcommerce -INFO - providing customer details....
+2022-08-21 22:32:07,561 - nopEcommerce -INFO - URL is opened.....
+2022-08-21 22:32:08,609 - nopEcommerce -INFO - User provided
+2022-08-21 22:32:08,716 - nopEcommerce -INFO - Password provided
+2022-08-21 22:32:12,981 - nopEcommerce -INFO - Login in Clicked
+2022-08-21 22:32:19,909 - nopEcommerce -INFO - Login Passed
+2022-08-21 22:32:28,881 - nopEcommerce -INFO - User name is provided
+2022-08-21 22:32:29,009 - nopEcommerce -INFO - password is provided
+2022-08-21 22:32:33,318 - nopEcommerce -INFO - providing customer details....
+2022-08-21 22:32:41,926 - nopEcommerce -INFO - Providing email
+2022-08-21 22:32:42,123 - nopEcommerce -INFO - Providing password
+2022-08-21 22:32:42,232 - nopEcommerce -INFO - Providing Customer roles
+2022-08-21 22:32:48,793 - nopEcommerce -INFO - Selecting vendor
+2022-08-21 22:32:50,157 - nopEcommerce -INFO - Selecting gender
+2022-08-21 22:32:50,238 - nopEcommerce -INFO - Providing first name and last name
+2022-08-21 22:32:50,439 - nopEcommerce -INFO - Providing dob
+2022-08-21 22:32:50,617 - nopEcommerce -INFO - Providing company name and admin content
+2022-08-21 22:32:50,922 - nopEcommerce -INFO - clicking on save
+2022-08-21 22:32:53,133 - nopEcommerce -INFO - validation started....
+2022-08-21 22:35:41,230 - nopEcommerce -INFO - URL is opened.....
+2022-08-21 22:35:41,431 - nopEcommerce -INFO - User provided
+2022-08-21 22:35:41,553 - nopEcommerce -INFO - Password provided
+2022-08-21 22:35:41,634 - nopEcommerce -INFO - Login in Clicked
+2022-08-21 22:35:48,315 - nopEcommerce -INFO - Login Passed
+2022-08-21 22:35:56,286 - nopEcommerce -INFO - User name is provided
+2022-08-21 22:35:56,391 - nopEcommerce -INFO - password is provided
+2022-08-21 22:35:56,490 - nopEcommerce -INFO - providing customer details....
+2022-08-21 22:36:04,274 - nopEcommerce -INFO - Providing email
+2022-08-21 22:36:04,457 - nopEcommerce -INFO - Providing password
+2022-08-21 22:36:04,553 - nopEcommerce -INFO - Providing Customer roles
+2022-08-21 22:36:10,944 - nopEcommerce -INFO - Selecting vendor
+2022-08-21 22:36:11,065 - nopEcommerce -INFO - Selecting gender
+2022-08-21 22:36:11,155 - nopEcommerce -INFO - Providing first name and last name
+2022-08-21 22:36:11,368 - nopEcommerce -INFO - Providing dob
+2022-08-21 22:36:11,536 - nopEcommerce -INFO - Providing company name and admin content
+2022-08-21 22:36:11,862 - nopEcommerce -INFO - clicking on save
+2022-08-21 22:36:13,458 - nopEcommerce -INFO - validation started....
+2022-08-21 22:50:05,110 - nopEcommerce -INFO - URL is opened.....
+2022-08-21 22:50:05,308 - nopEcommerce -INFO - User provided
+2022-08-21 22:50:05,404 - nopEcommerce -INFO - Password provided
+2022-08-21 22:50:10,693 - nopEcommerce -INFO - Login in Clicked
+2022-08-21 22:50:17,700 - nopEcommerce -INFO - Login Passed
+2022-08-21 22:50:28,101 - nopEcommerce -INFO - User name is provided
+2022-08-21 22:50:28,194 - nopEcommerce -INFO - password is provided
+2022-08-21 22:50:32,050 - nopEcommerce -INFO - providing customer details....
+2022-08-21 22:50:36,283 - nopEcommerce -INFO - Providing email
+2022-08-21 22:50:36,478 - nopEcommerce -INFO - Providing password
+2022-08-21 22:50:36,605 - nopEcommerce -INFO - Providing Customer roles
+2022-08-21 22:50:43,027 - nopEcommerce -INFO - Selecting vendor
+2022-08-21 22:50:43,145 - nopEcommerce -INFO - Selecting gender
+2022-08-21 22:50:43,212 - nopEcommerce -INFO - Providing first name and last name
+2022-08-21 22:50:43,415 - nopEcommerce -INFO - Providing dob
+2022-08-21 22:50:43,556 - nopEcommerce -INFO - Providing company name and admin content
+2022-08-21 22:50:43,888 - nopEcommerce -INFO - clicking on save
+2022-08-21 22:50:45,487 - nopEcommerce -INFO - validation started....
+2022-08-21 22:53:45,168 - nopEcommerce -INFO - URL is opened.....
+2022-08-21 22:53:52,012 - nopEcommerce -INFO - User name is provided
+2022-08-21 23:29:26,004 - nopEcommerce -INFO - URL is opened.....
